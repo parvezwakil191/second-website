@@ -1,2 +1,88 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+PS E:\C Programming\html\second-website\second-website> (devlop)$ git brance         
+At line:1 char:9
++ (devlop)$ git brance
++         ~
+Unexpected token '$' in expression or statement.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : UnexpectedToken
+
+PS E:\C Programming\html\second-website\second-website> *devlop main
+*devlop : The term '*devlop' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included,   
+verify that the path is correct and try again.
+At line:1 char:1
++ *devlop main
++ ~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (*devlop:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS E:\C Programming\html\second-website\second-website>PS E:\C Programming\html\second-website\second-website> (devlop)$ git brance         
+At line:1 char:9
++ (devlop)$ git brance
++         ~
+Unexpected token '$' in expression or statement.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : UnexpectedToken
+
+PS E:\C Programming\html\second-website\second-website> *devlop main
+*devlop : The term '*devlop' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included,   
+verify that the path is correct and try again.
+At line:1 char:1
++ *devlop main
++ ~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (*devlop:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS E:\C Programming\html\second-website\second-website>PS E:\C Programming\html\second-website\second-website> (devlop)$ git brance         
+At line:1 char:9
++ (devlop)$ git brance
++         ~
+Unexpected token '$' in expression or statement.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : UnexpectedToken
+
+PS E:\C Programming\html\second-website\second-website> *devlop main
+*devlop : The term '*devlop' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included,   
+verify that the path is correct and try again.
+At line:1 char:1
++ *devlop main
++ ~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (*devlop:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS E:\C Programming\html\second-website\second-website>PS E:\C Programming\html\second-website\second-website> (devlop)$ git brance         
+At line:1 char:9
++ (devlop)$ git brance
++         ~
+Unexpected token '$' in expression or statement.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : UnexpectedToken
+
+PS E:\C Programming\html\second-website\second-website> *devlop main
+*devlop : The term '*devlop' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included,   
+verify that the path is correct and try again.
+At line:1 char:1
++ *devlop main
++ ~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (*devlop:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS E:\C Programming\html\second-website\second-website>PS E:\C Programming\html\second-website\second-website> (devlop)$ git brance         
+At line:1 char:9
++ (devlop)$ git brance
++         ~
+Unexpected token '$' in expression or statement.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : UnexpectedToken
+
+PS E:\C Programming\html\second-website\second-website> *devlop main
+*devlop : The term '*devlop' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included,   
+verify that the path is correct and try again.
+At line:1 char:1
++ *devlop main
++ ~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (*devlop:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS E:\C Programming\html\second-website\second-website>
